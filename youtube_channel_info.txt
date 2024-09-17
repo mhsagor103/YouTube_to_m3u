@@ -3,3 +3,5 @@
 
 24 News Malayalam | Malayalam | https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png |
 https://www.youtube.com/c/24OnLive/live
+Desh TV | Bangladesh | https://raw.githubusercontent.com/fraudiay79/logos/master/bd/deshtv.png |
+https://www.youtube.com/@livedeshtv/live
